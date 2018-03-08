@@ -1,1 +1,0 @@
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\Hello\Hello\Hello.csproj;x86

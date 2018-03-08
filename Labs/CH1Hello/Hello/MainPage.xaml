@@ -7,22 +7,10 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid RequestedTheme="Dark">
-        <Grid.Background>
-            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                <GradientStop Color="Black"/>
-                <GradientStop Color="#FFFD0707" Offset="1"/>
-            </LinearGradientBrush>
-        </Grid.Background>
-        <Grid.FocusVisualPrimaryBrush>
-            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                <GradientStop Color="Black"/>
-                <GradientStop Color="White" Offset="1"/>
-            </LinearGradientBrush>
-        </Grid.FocusVisualPrimaryBrush>
-        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="507,263,0,0" Text="Please enter your name." TextWrapping="Wrap" VerticalAlignment="Top" Height="44" Width="281" FontSize="24"/>
-        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="509,305,0,0" Text="TextBox" VerticalAlignment="Top" RenderTransformOrigin="0.514,0.656" Width="256" Height="52" FontSize="24"/>
-        <Button x:Name="ok" Content="OK" HorizontalAlignment="Left" Margin="774,306,0,0" VerticalAlignment="Top" Height="50" Width="61" FontSize="20"/>
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Please enter your name" VerticalAlignment="Top" FontSize="24"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="10,58,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="248"/>
+        <Button x:Name="ok" Content="OK" HorizontalAlignment="Left" Margin="263,58,0,0" VerticalAlignment="Top" Click="okClick"/>
 
     </Grid>
 </Page>

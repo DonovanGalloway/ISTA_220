@@ -1,6 +1,6 @@
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\TestHello - Complete\TestHello\bin\Debug\TestHello.exe.config
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\TestHello - Complete\TestHello\bin\Debug\TestHello.exe
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\TestHello - Complete\TestHello\bin\Debug\TestHello.pdb
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\TestHello - Complete\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\TestHello - Complete\TestHello\obj\Debug\TestHello.exe
-C:\Users\Donovn\Desktop\Embry Riddle_MSSA\ISTA 220_C# Prog\Chapter 1\Labs\TestHello - Complete\TestHello\obj\Debug\TestHello.pdb
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH1TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH1TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH1TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH1TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH1TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH1TestHello\TestHello\obj\Debug\TestHello.pdb
