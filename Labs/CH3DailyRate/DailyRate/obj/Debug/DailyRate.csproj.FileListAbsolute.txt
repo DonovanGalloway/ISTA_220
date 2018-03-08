@@ -1,0 +1,6 @@
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\DailyRate-Complete\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\DailyRate-Complete\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\DailyRate-Complete\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\DailyRate-Complete\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\DailyRate-Complete\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\DailyRate-Complete\DailyRate\obj\Debug\DailyRate.pdb
