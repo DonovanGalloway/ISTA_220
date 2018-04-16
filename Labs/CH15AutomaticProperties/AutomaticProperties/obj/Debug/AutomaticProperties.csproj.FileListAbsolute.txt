@@ -1,0 +1,7 @@
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojResolveAssemblyReference.cache
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Labs\CH15AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb

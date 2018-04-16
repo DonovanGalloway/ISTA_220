@@ -1,0 +1,7 @@
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\obj\Debug\Exercise5b.csprojResolveAssemblyReference.cache
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\obj\Debug\Exercise5b.csproj.CoreCompileInputs.cache
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\bin\Debug\Exercise5b.exe.config
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\bin\Debug\Exercise5b.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\bin\Debug\Exercise5b.pdb
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\obj\Debug\Exercise5b.exe
+C:\Users\Donovn\Desktop\EmbryRiddle_MSSA\CAD\ISTA220_C#\Exercises\Exercise5b\Exercise5b\obj\Debug\Exercise5b.pdb
